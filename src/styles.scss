@@ -1,0 +1,41 @@
+h2 {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 45px;
+  text-align: center;
+  color: rgb(2, 2, 37);
+}
+.country-description {
+  display: flex;
+  justify-content: center;
+}
+.textcontent {
+  width: 200px;
+  margin-right: 100px;
+}
+li {
+  margin-top: 0;
+  font-size: 20px;
+}
+span {
+  font-weight: bold;
+  color: rgb(1, 17, 1);
+}
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+img {
+  width: 400px;
+}
+
+.js-list-title {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 45px;
+  text-align: center;
+  color: black;
+}
+a {
+  text-decoration: none;
+}
