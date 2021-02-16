@@ -1,7 +1,7 @@
 import countriesName from '../templates/countries.hbs';
 import {countryContainer} from './refs'
 import countryName from '../templates/countryItems.hbs';
-import { defaults, info, success, error } from '@pnotify/core';
+import { success, error } from '@pnotify/core';
 import '@pnotify/core/dist/PNotify.css';
 import '@pnotify/core/BrightTheme.css';
 
